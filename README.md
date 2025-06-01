@@ -1,6 +1,6 @@
 # 🏠 Real Estate C Project
 
-This C program was developed as part of a case study project for **Algorithm and Programming** coursework at BINUS University. It processes a CSV dataset containing real estate listings and offers core utility functions such as **Display**, **Search**, **Sort**, and **Export**.
+This C program processes a CSV dataset containing real estate listings and offers core utility functions such as **Display**, **Search**, **Sort**, and **Export**.
 
 ---
 
